@@ -16,17 +16,12 @@ website: https://www.sandagerdi.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 github_username:  flippingtables
 # stackoverflow_username: "00000001"
 linkedin_username: joannesisandagerdi
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 # additional_links:
@@ -152,8 +147,8 @@ content:
   #     Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
-references_title: I can be reached via LinkedIn.
+footer_show_references: false
+references_title: Reach me on LinkedIn.
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
