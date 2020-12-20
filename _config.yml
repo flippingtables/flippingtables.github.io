@@ -78,7 +78,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Danske Bank
         sub_title: Senior Software Engineer
         caption: April 2020 - present
@@ -88,7 +88,7 @@ content:
           Full-stack software developer
 
           Technologies used: Angular, .Net Core, Azure Dev-Ops
-      - layout: right
+      - layout: left
         title: Netcompany
         sub_title: Senior Consultant
         caption: January 2019 - April 2020
