@@ -86,6 +86,7 @@ content:
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Full-stack software developer
+
           Technologies used: Angular, .Net Core, Azure Dev-Ops
       - layout: right
         title: Netcompany
@@ -93,6 +94,7 @@ content:
         caption: January 2019 - April 2020
         description: | # this will include new lines to allow paragraphs
           Full-stack software developer
+
           Technologies used: Angular, .Net Core, Azure Dev-Ops
           * Developed software solutions in technologies, such as: AngularJS and .Net
           * Built solutions for the clients based on the SharePoint platform.
@@ -103,6 +105,12 @@ content:
           * Instructor on a week long internal course for new employees.
           * Worked closely with clients throughout project life cycle.
           * Worked on multiple tender proposals.
+      - layout: left
+        title: Netcompany
+        sub_title: Consultant
+        caption: February 2018 - December 2018
+        description: | #
+          Consultant
   - title: Education
     layout: list
     content:
