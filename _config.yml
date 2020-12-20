@@ -111,6 +111,18 @@ content:
         caption: February 2018 - December 2018
         description: | #
           Consultant
+      - layout: left
+        title: CIMCO A/S
+        sub_title: Software Developer
+        caption: December 2014 - Jan 2018
+        description: | #
+        * Software Developer where majority of the work is in developing Windows applications in C++ and related technologies.
+        * Setup Continuous Delivery system for rapid build and release of software.
+        * Setup and integrated issue tracking in software development work-flow.
+        * Administrator company on-site, and cloud-based server infrastructure.
+        * Working with stakeholders on specifying and implementing features.
+        * Technologies used: C++, C, Python, MFC, Jenkins, Phabricator, Amazon
+        AWS
   - title: Education
     layout: list
     content:
