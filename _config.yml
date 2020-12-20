@@ -126,7 +126,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Danmarks Tekniske Universitet
         sub_title: MSc in Computer Science and Engineering
         caption: 2013 - 2015
@@ -136,7 +136,7 @@ content:
           Finished with a grade of 10.
 
           Member of DTU Security Club, a group of security enthusiasts which are active in CTFs and other security related events.
-      - layout: top-right
+      - layout: left
         title: Queensland University of Technology
         sub_title: Bachelor of Information Technology
         caption: 2010 - 2012
