@@ -82,7 +82,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Full-stack software developer
 
-          Technologies used: Angular, .Net Core, Azure Dev-Ops
+          Some of the technologies used: .Net Core, Angular 12, Azure DevOps, Docker
       - layout: left
         title: Netcompany
         sub_title: Senior Consultant
@@ -99,13 +99,13 @@ content:
           * Scrum Master on a project for one of our clients.
           * Instructor on a week long internal course for new employees.
           * Worked closely with clients throughout project life cycle.
-          * Worked on multiple tender proposals.
+          * Worked on multiple large tender proposals.
       - layout: left
         title: Netcompany
         sub_title: Consultant
         caption: February 2018 - December 2018
         description: | #
-          Consultant
+          See above.
       - layout: left
         title: CIMCO A/S
         sub_title: Software Developer
@@ -116,8 +116,7 @@ content:
           * Setup and integrated issue tracking in software development work-flow.
           * Administrator company on-site, and cloud-based server infrastructure.
           * Working with stakeholders on specifying and implementing features.
-          * Technologies used: C++, C, Python, MFC, Jenkins, Phabricator, Amazon
-          AWS
+          * Technologies used: C++, C, MFC, Python, Jenkins, Phabricator, Amazon AWS
   - title: Education
     layout: list
     content:
@@ -129,7 +128,7 @@ content:
         #   Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Finished with a grade of 10.
-
+        
           Member of DTU Security Club, a group of security enthusiasts which are active in CTFs and other security related events.
       - layout: left
         title: Queensland University of Technology
@@ -147,7 +146,7 @@ content:
   #     Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 references_title: Reach me on LinkedIn.
 
 # Build settings
@@ -161,7 +160,7 @@ sass:
 plugins:
  - jekyll-seo-tag
 
-exclude : [
+exclude: [
   "Gemfile",
   "Gemfile.lock",
   "node_modules",
